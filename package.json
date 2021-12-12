@@ -1,0 +1,8 @@
+{
+  "name": "hsx_utils",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:foxhsx/hsx_utils.git",
+  "author": "foxhsx <932163475@qq.com>",
+  "license": "MIT"
+}
